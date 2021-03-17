@@ -1,0 +1,1 @@
+Yann LeCun, one of the three researchers behind the creation of MNIST, has devoted a portion of his research to using MNIST to experiment with cutting edge algorithms, which can be seen on his personal website yann.lecun.com.
